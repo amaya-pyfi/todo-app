@@ -1,8 +1,6 @@
 drink
-cycling
-team party
-make soup
-clean the code
-buy fooddo laundrydo hw
-coding
-sing
+team meeting
+buy food
+master python
+be original
+buy shirt
