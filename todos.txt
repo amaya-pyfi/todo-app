@@ -2,5 +2,3 @@ drink
 team meeting
 buy food
 master python
-be original
-buy shirt
